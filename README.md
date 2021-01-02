@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Welcome to web Development for beginners.
 
-You can use the [editor on GitHub](https://github.com/hkvongit/web-dev-crash-course/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page will deal with the syllabus for the course. This course mainly focus on building a portfolio site our beginner friend using HTML, CSS and Javascript.We took all the study materials for this circuit from [W3 Schools](https://www.w3schools.com/). Please visit the site for more help.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Tools we use and learn
+1. Test editor - **VS Code**
+2. Web Browser - **Chrome**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## HTML - To learn 
+1. Introduction to HTML
+2. Basics
+3. Elements
+4. Attributes
+5. Heading, Paragrapgh, styles, formating.
+6. Commenting
+7. Colors - RGB and HEX
+8. HTML and CSS
+9. Anchor tag and hyperlinks
+10. Images
+11. Tables
+12. List
+13. HTML Block
+14. Class and ID attribute in detail
+15. HTML with Javascript
+16. HTML layouts
 
-```markdown
-Syntax highlighted code block
+for more details visit  <a>HTML elaborated syllabus for beginners.</a>
 
-# Header 1
-## Header 2
-### Header 3
+## CSS - To learn
+1. CSS Examples
+2. CSS Templates
+3. Introduction to CSS
+4. CSS Syntax
+5. CSS Selectors
+6. How to add CSS in an HTML file
+7. CSS Box Model
+8. Colors and backgrounds.
+9. Text and fonts
+10. Display
+11. Width - Max width, min width and width.
+12. CSS size units - px, rem, em, ch
+13.  Overflow
+14.  Float
+15.  Position
 
-- Bulleted
-- List
+for more details visit <a>CSS elaborated syllabus for beginners.</a>
 
-1. Numbered
-2. List
+## Javascript - To learn
+1. Introduction to Javascript
+2. Script tag in HTML file.
+3. Javascript Display Outputs.
+4. Javascript statements.
+5. Javascript Syntax
+6. Comments in Javascript
+7. Operators
+8. Data types
+9. Functions
+10. Objects
+11. Events
+12. Strings and String methods
+13. Numbers and Number methods
+14. Array and Array Methods
+15. Iteration through array using for, forEach.
+16. Map, reduce and filter
 
-**Bold** and _Italic_ and `Code` text
+for more details visit <a>Javascript elaborated syllabus for beginners.</a>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hkvongit/web-dev-crash-course/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
