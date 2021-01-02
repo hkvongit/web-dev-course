@@ -1,4 +1,4 @@
-# Welcome to web Development for beginners.
+# Welcome to Web Development for beginners.
 
 This page will deal with the syllabus for the course. This course mainly focus on building a portfolio site our beginner friend using HTML, CSS and Javascript.We took all the study materials for this circuit from [W3 Schools](https://www.w3schools.com/). Please visit the site for more help.
 
