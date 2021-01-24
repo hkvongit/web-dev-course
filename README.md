@@ -7,7 +7,7 @@
 	3. Front End Web Development (Introduction).
 	4. HTML, CSS (Introductory Course).
 	5. DOM and box layout.
-	6. Intermediate Javascript.
+	6. Introduction Javascript.
 	7. Git and Code review.
 	8. Building Portfolio website.
 
@@ -24,7 +24,7 @@
 	4. Examples of great Portfolio sites.
 	5. Introduction to css flexbox.
 	6. How to use figma for web development.
-    
+
 5. **Level 3 ( Intermidate level Project ).**
 	1. Line diagram of your project idea.
 	2. Documentation.
