@@ -1,9 +1,7 @@
 theme: jekyll-theme-hacker
-  - jekyll-theme-clean-blog
-title: 
-  - HKV
+title: web dev course
 description: 
-  - This is the official page of HKV.
+  - Become a web development.
 plugins:
   - jekyll-relative-links
 relative_links:
