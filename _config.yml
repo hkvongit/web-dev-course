@@ -1,3 +1,9 @@
-theme: jekyll-theme-hacker
-title: Web Dev Crash course
-description: This is the syllabus for web dev crash course for beginners. Mainly focuses on funcdementals of HTML, CSS, Javascript.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - help/HELP.md
