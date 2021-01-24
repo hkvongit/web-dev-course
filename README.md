@@ -1,5 +1,6 @@
 # Web Development for Starters
 ## Syllabus
+
 1. **Level 1 ( BEGINNER FRIENDLY )**
 	1. Joining Telegram Community - Channel and Group (Batch wise)
 	2. World of Internet, Web and Carrer paths.
@@ -9,11 +10,13 @@
 	6. Intermediate Javascript.
 	7. Git and Code review.
 	8. Building Portfolio website.
+
 2. **Level 2 ( Focusing Javascript)**
 	1. Introduction to Javascript.
 	2. Bootstrap CSS.
 	3. Intermediate HTML and CSS with Minimal Javascript.
 	4. **Intermediate Javascript**
+
 4. **Level 2 ( PORTFOLIO SITE )**
 	1. How to document requirements of a website.
 	2. How to find patterns of design.
@@ -21,6 +24,7 @@
 	4. Examples of great Portfolio sites.
 	5. Introduction to css flexbox.
 	6. How to use figma for web development.
+    
 5. **Level 3 ( Intermidate level Project ).**
 	1. Line diagram of your project idea.
 	2. Documentation.
