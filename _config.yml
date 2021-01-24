@@ -1,3 +1,9 @@
+theme: 
+  - jekyll-theme-cayman
+title: 
+  - HKV
+description: 
+  - This is the official page of HKV.
 plugins:
   - jekyll-relative-links
 relative_links:
