@@ -6,10 +6,9 @@
 	3. Front End Web Development (Introduction).
 	4. HTML, CSS (Introductory Course).
 	5. DOM and box layout.
-	6. 
-	7. Intermediate Javascript.
-	8. Git and Code review.
-	9. Building Portfolio website.
+	6. Intermediate Javascript.
+	7. Git and Code review.
+	8. Building Portfolio website.
 2. **Level 2 ( Focusing Javascript)**
 	1. Introduction to Javascript.
 	2. Bootstrap CSS.
