@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: web dev course
 description: 
-  - Become a web development.
+  - Become a web developer.
 plugins:
   - jekyll-relative-links
 relative_links:
